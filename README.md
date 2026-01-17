@@ -27,7 +27,23 @@ on PNG surface using [PILLOW (PIL fork)](https://pypi.org/project/pillow/) .
 
 ![Artwork](art/genart10.png)
 
+![Artwork](art/genart10_2.png)
+
+![Artwork](art/genart10_3.png)
+
 ![Artwork](art/genart11.png)
+
+![Artwork](art/genart11_0.png)
+
+![Artwork](art/genart11_1.png)
+
+![Artwork](art/genart11_2.png)
+
+![Artwork](art/genart11_3.png)
+
+![Artwork](art/genart12_1.png)
+
+![Artwork](art/genart12_2.png)
 
 ![Artwork](art/genart12.png)
 
